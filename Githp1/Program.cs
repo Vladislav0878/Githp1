@@ -11,6 +11,7 @@ namespace Githp1
         static void Main(string[] args)
         {
             Console.WriteLine("Tova e prvi test s GitHub");
+            Console.WriteLine("dobavi 1 dna nova igra");
 
         }
     }
